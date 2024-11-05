@@ -1,4 +1,19 @@
-vendor
-config.php
-debug.php
-.vscode
+/config.php
+/debug.php
+/.vscode/
+/nbproject/private/
+/nbproject/
+/etc/
+/log/
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+.phpdoc
+/build/
+
