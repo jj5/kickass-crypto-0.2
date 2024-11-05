@@ -1,10 +1,13 @@
+/.vscode/
+/.phpdoc/
+/build/
+/etc/local/
+/log/
+/nbproject/
+/var/
+/vendor/
 /config.php
 /debug.php
-/.vscode/
-/nbproject/private/
-/nbproject/
-/etc/
-/log/
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
@@ -14,6 +17,4 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-.phpdoc
-/build/
 
